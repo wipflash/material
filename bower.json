@@ -1,0 +1,24 @@
+{
+  "name": "liteMat",
+  "description": "A light css framework",
+  "main": "",
+  "authors": [
+    "Daemon Internet Consultants"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "css"
+  ],
+  "homepage": "https://github.com/wipflash/material",
+  "moduleType": [
+    "globals"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
